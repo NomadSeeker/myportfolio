@@ -11,12 +11,12 @@ const Home = () => {
                 <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl">Juan Jose Arroyo</h1>
                 <p className='mb-8 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48'>I'm a software engineer with a special interest in design</p>
             </div>
-            <div className='px-4 mx-auto text-centermd:max-w-screen-md lg:max-w-screen-lg lg:px-36'>
+            {/* <div className='px-4 mx-auto text-centermd:max-w-screen-md lg:max-w-screen-lg lg:px-36'>
                 <span className='font-semibold text-gray-400 uppercase'>Links</span>
                 <div className='grid grid-rows-3'>
 
                 </div>
-            </div>
+            </div> */}
         </section>
         <section className='bg-slate-100 py-7'>
             <div className='container mx-auto '>
