@@ -22,9 +22,9 @@ const Home = () => {
             <div className='container mx-auto '>
                     <h1 className='font-extrabold mb-3 text-2xl'>Projects</h1>
                     <div className='grid grid-cols-1 gap-5 justify-items-center md:grid-cols-3 md:gap-3 md:justify-items-stretch'>
-                        <Card title="Natours Site" description="Landing site for a tours business company." image="/images/Natours-site.png" buttonText="Visit Project" url="https://nattours24.netlify.app" />
-                        <Card title="Nexter Site" description="Landing site for a Real State business company." image="/images/Nexter-site.png" buttonText="Visit Project" url="https://next3r.netlify.app"/>
-                        <Card title="Trillo Site" description="Landing site for Travel Booking business." image="/images/Trillo-site.png" buttonText="Visit Project" url="https://tryllo.netlify.app"/>
+                        <Card title="Natours Site" description="Landing site for a tours business company." image="/myportfolio/images/Natours-site.png" buttonText="Visit Project" url="https://nattours24.netlify.app" />
+                        <Card title="Nexter Site" description="Landing site for a Real State business company." image="/myportfolio/images/Nexter-site.png" buttonText="Visit Project" url="https://next3r.netlify.app"/>
+                        <Card title="Trillo Site" description="Landing site for Travel Booking business." image="/myportfolio/images/Trillo-site.png" buttonText="Visit Project" url="https://tryllo.netlify.app"/>
                     </div>
                     
                 </div>
