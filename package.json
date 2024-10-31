@@ -1,7 +1,7 @@
 {
   "name": "portfolio",
   "version": "0.1.0",
-  "homepage": "https://nomadseeker.github.io/",
+  "homepage": "https://nomadseeker.github.io/myportfolio",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.2.7",
