@@ -25,7 +25,7 @@ const Home = () => {
                         <Card title="Natours Site" description="Landing site for a tours business company." image="/myportfolio/images/Natours-site.png" buttonText="Visit Project" url="https://nattours24.netlify.app" />
                         <Card title="Nexter Site" description="Landing site for a Real State business company." image="/myportfolio/images/Nexter-site.png" buttonText="Visit Project" url="https://next3r.netlify.app"/>
                         <Card title="Trillo Site" description="Landing site for Travel Booking business." image="/myportfolio/images/Trillo-site.png" buttonText="Visit Project" url="https://tryllo.netlify.app"/>
-                        <Card title="Movies app" description="A full-stack movie application developed with Nodejs, Express, Reactjs and MongoDB." image="/myportfolio/images/movies-app.png" buttonText="Visit Project" url="https://movies-app-brown-one.vercel.app"/>
+                        <Card title="Movies app (In development!)" description="A full-stack movie application developed with Nodejs, Express, Reactjs and MongoDB." image="/myportfolio/images/movies-app.png" buttonText="Visit Project" url="https://movies-app-brown-one.vercel.app"/>
                     </div>
                     
                 </div>
